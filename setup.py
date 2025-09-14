@@ -7,7 +7,7 @@ __versiom__ = "0.0.0"
 
 REPO_NAME = "Text-Sumarizer"
 AUTHOR_USE_NAME = "Deepak-Byte"
-SRC_REPO = "Text Summarizer"
+SRC_REPO = "Text  Summarizer"
 AUTHOR_EMIAL = "deepakkpasi@gmail.com"
 
 setuptools.setup(
